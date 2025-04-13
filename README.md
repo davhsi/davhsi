@@ -1,98 +1,83 @@
-<!-- Fire README by davhsi 🔥 -->
+<!-- 🚀 README by davhsi aka HSi - the beast mode dev -->
 
-<h1 align="center">Hey there 👋, I'm Davish E. aka <span style="color:#facc15;">davhsi</span></h1>
-<h3 align="center">B.E. CSE | Full Stack Dev | MERN | Redis | Cloud Enthusiast | 🔥 Passionate Coder</h3>
+<h1 align="center">Hey there 👋, I'm Davish E. aka <span style="color:#facc15;">HSi</span></h1>
+<h3 align="center">Full Stack Dev | Cloud | 🔥 Problem Solver | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="150px" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJtZ28xbHlhbXN3d3I1NDF6cXRodjFiY3IwcjhhbXZ0NHo2ZzZqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif" alt="Minimal Tech GIF" width="300px"/>
 </p>
 
 ---
 
 🚀 **About Me**
 
-- 🎓 B.E. Computer Science @ BIT | CGPA: 9.05
-- 👨‍💻 Backend-heavy full stack dev (MERN, Redis, SQL, AWS)
-- ⚡ Love building real-time apps, gaming backends & cloud-powered apps
-- 🌍 Portfolio: [davish.me](https://davish.me)
-- 📫 Connect: [LinkedIn](https://linkedin.com/in/edavish) • [GitHub](https://github.com/davhsi) • [LeetCode](https://leetcode.com/dayywish)
+- 🎓 B.E. Computer Science @ BIT  
+- 🧠 Backend-heavy full stack dev (MERN, Redis, SQL, AWS)  
+- 🎮 Real-time apps, gaming backends & cloud-native builds  
+- 🌐 Portfolio: [**davish.me**](https://davish.me)  
+- 📬 [LinkedIn](https://linkedin.com/in/edavish) • [GitHub](https://github.com/davhsi) • [LeetCode](https://leetcode.com/dayywish)
 
 ---
 
 🛠️ **Tech Stack**
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,postgres,redis,aws,git,github,postman,figma" />
+</p>
 
 ---
 
 🔥 **Featured Projects**
 
 🎯 [**Fresh Fleet**](https://freshfleet.davish.me)  
-*Health-focused Grocery Shopping (MERN + AWS S3/CDN)*  
+*Health-focused Grocery Shopping App (MERN + AWS S3/CDN)*  
 `MongoDB • Express • React • Node.js • AWS`
 
 📡 [**Multiplayer Fruit Ninja**](https://fruitninja.davish.me)  
-*Real-time Game + Live Redis Leaderboard*  
-`Redis • WebSocket • Node.js • Express • React`
+*Real-time Game + Redis Leaderboard + WebSocket Gameplay*  
+`Redis • WebSocket • Express • React`
 
 💼 [**Personal Portfolio**](https://davish.me)  
-*Built & Deployed with 💖 on Vercel using custom .me domain*  
-`React • CSS • Vercel • DNS Management`
+*Modern, responsive dev portfolio hosted on Vercel with custom .me domain*  
+`React • CSS • Vercel • DNS`
+
+💡 *...and more brewing in the HSi lab 🧪*
 
 ---
 
 📈 **GitHub Analytics**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davhsi&show_icons=true&theme=radical" alt="davhsi's GitHub stats" width="50%"/>
-  <img src="https://streak-stats.demolab.com?user=davhsi&theme=radical&border_radius=4.5" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=davhsi&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://streak-stats.demolab.com?user=davhsi&theme=radical&border_radius=4.5" width="47%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davhsi&layout=compact&theme=radical" width="45%"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=davhsi&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views"/>
+</p>
+
 ---
 
 🎓 **Certifications**
 
-- 📘 NPTEL - DSA using Java
-- 🌐 Cisco - Networking Basics
-- 🔗 Blockchain & GenAI - Saveetha School of Engineering
-- 🎤 Paper Presenter - International E-Conference on EdTech & Innovation
+- 📘 NPTEL - Data Structures & Algorithms in Java  
+- 🌐 Cisco - Networking Basics  
 
 ---
 
-⚡ **Currently Working On**
+⚡ **Currently Leveling Up**
 
-- 🔐 Full Stack Auth System (SERN stack, JWT, MySQL)
-- 🧠 MINDFLIP - Emotion-Aware Mental Health Recommender System
-- ☁️ Cloud Tasks on Azure & AWS
-
----
-
-👨‍🎓 **Cool Extras**
-
-- 💻 Competitive Coder: [Leetcode](https://leetcode.com/dayywish)
-- 🎵 Music junkie & movie lover
-- 🎤 Speaker | Builder | Dreamer
+- 🔧 System Design & Scalable Architecture  
+- ☁️ Advanced AWS, Load Balancing, DevOps magic  
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&width=440&lines=Keep+Building.+Keep+Grinding.+🚀;Stay+Curious+Stay+Relentless.🔥" />
-</p>
+🎯 **Also Into**
 
-![](https://komarev.com/ghpvc/?username=davhsi)
+- 💻 Competitive Coder on [Leetcode](https://leetcode.com/dayywish)  
+- 🎵 Music junkie | 🎬 Movie buff | 🎤 Tech Speaker  
+- 🔁 Always Building. Always Learning.  
