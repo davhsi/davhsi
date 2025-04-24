@@ -1,21 +1,39 @@
 <!-- 🚀 README by davhsi aka HSi - the beast mode dev -->
 
 <h1 align="center">Hey there 👋, I'm Davish E. aka <span style="color:#facc15;">HSi</span></h1>
-<h3 align="center">Full Stack Dev | Cloud | 🔥 Problem Solver | Tech Explorer</h3>
+<h3 align="center">Full Stack Dev | Cloud ⚡ | Tech Explorer | Problem Solver 🧠</h3>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJtZ28xbHlhbXN3d3I1NDF6cXRodjFiY3IwcjhhbXZ0NHo2ZzZqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif" alt="Minimal Tech GIF" width="300px"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJtZ28xbHlhbXN3d3I1NDF6cXRodjFiY3IwcjhhbXZ0NHo2ZzZqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif" alt="Tech Vibes" width="300px"/>
 </p>
+
+---
+
+🔥 **Live Projects**
+
+- 🛒 **Fresh Fleet** – Health-focused Grocery Shopping App  
+  🔗 [https://freshfleet.davish.me](https://freshfleet.davish.me)  
+  `MongoDB • Express • React • Node.js • AWS`
+
+- 🍉 **Multiplayer Fruit Ninja** – Real-time WebSocket Game  
+  🔗 [https://fruitninja.davish.me](https://fruitninja.davish.me)  
+  `Redis • WebSocket • Express • React`
+
+- 🖥️ **Personal Portfolio** – Responsive dev portfolio w/ custom domain  
+  🔗 [https://davish.me](https://davish.me)  
+  `React • CSS • Vercel • DNS`
+
+💡 *...and more cooking in the HSi lab 🧪*
 
 ---
 
 🚀 **About Me**
 
 - 🎓 B.E. Computer Science @ BIT  
-- 🧠 Backend-heavy full stack dev (MERN, Redis, SQL, AWS)  
-- 🎮 Real-time apps, gaming backends & cloud-native builds  
-- 🌐 Portfolio: [**davish.me**](https://davish.me)  
-- 📬 [LinkedIn](https://linkedin.com/in/edavish) • [GitHub](https://github.com/davhsi) • [LeetCode](https://leetcode.com/dayywish)
+- 🔧 Full Stack Dev (MERN + SQL + Redis + AWS)  
+- 🕹️ Love building real-time apps, cloud-native tools, and backend engines  
+- 🌐 Portfolio: [https://davish.me](https://davish.me)  
+- 🔗 Connect: [LinkedIn](https://linkedin.com/in/edavish) • [GitHub](https://github.com/davhsi) • [LeetCode](https://leetcode.com/dayywish)
 
 ---
 
@@ -27,25 +45,7 @@
 
 ---
 
-🔥 **Featured Projects**
-
-🎯 [**Fresh Fleet**](https://freshfleet.davish.me)  
-*Health-focused Grocery Shopping App (MERN + AWS S3/CDN)*  
-`MongoDB • Express • React • Node.js • AWS`
-
-📡 [**Multiplayer Fruit Ninja**](https://fruitninja.davish.me)  
-*Real-time Game + Redis Leaderboard + WebSocket Gameplay*  
-`Redis • WebSocket • Express • React`
-
-💼 [**Personal Portfolio**](https://davish.me)  
-*Modern, responsive dev portfolio hosted on Vercel with custom .me domain*  
-`React • CSS • Vercel • DNS`
-
-💡 *...and more brewing in the HSi lab 🧪*
-
----
-
-📈 **GitHub Analytics**
+📈 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=davhsi&show_icons=true&theme=radical" width="47%"/>
@@ -69,15 +69,15 @@
 
 ---
 
-⚡ **Currently Leveling Up**
+⚡ **Leveling Up**
 
-- 🔧 System Design & Scalable Architecture  
-- ☁️ Advanced AWS, Load Balancing, DevOps magic  
+- 🌍 System Design & Scalable Architectures  
+- ☁️ Advanced AWS, Load Balancing, DevOps Magic  
 
 ---
 
-🎯 **Also Into**
+😄 **Fun Facts & Interests**
 
-- 💻 Competitive Coder on [Leetcode](https://leetcode.com/dayywish)  
-- 🎵 Music junkie | 🎬 Movie buff | 🎤 Tech Speaker  
-- 🔁 Always Building. Always Learning.  
+- 💻 Competitive Coder on [LeetCode](https://leetcode.com/dayywish)  
+- 🎧 Music Junkie | 🎬 Movie Buff | 🎤 Tech Speaker  
+- 🔁 Always Building. Always Learning.
