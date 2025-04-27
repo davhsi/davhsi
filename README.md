@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack Dev | Cloud ⚡ | Tech Explorer | Problem Solver 🧠</h3>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJtZ28xbHlhbXN3d3I1NDF6cXRodjFiY3IwcjhhbXZ0NHo2ZzZqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif" alt="Tech Vibes" width="300px"/>
+<!--   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJtZ28xbHlhbXN3d3I1NDF6cXRodjFiY3IwcjhhbXZ0NHo2ZzZqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif" alt="Tech Vibes" width="300px"/> -->
 </p>
 
 ---
