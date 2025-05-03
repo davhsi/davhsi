@@ -72,7 +72,8 @@
 ⚡ **Leveling Up**
 
 - 🌍 System Design & Scalable Architectures  
-- ☁️ Advanced AWS, Load Balancing, DevOps Magic  
+- ☁️ Advanced AWS, Load Balancing, DevOps
+- GoLang
 
 ---
 
