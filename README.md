@@ -1,6 +1,6 @@
 <!-- 🚀 README by davhsi aka HSi - the beast mode dev -->
 
-<h1 align="center">Hey there 👋, I'm Davish E. aka <span style="color:#facc15;">HSi</span></h1>
+<h1 align="center">Hey there 👋, I'm Davish E</span></h1>
 <h3 align="center">Full Stack Dev | Cloud ⚡ | Tech Explorer | Problem Solver 🧠</h3>
 
 <p align="center">
@@ -23,7 +23,6 @@
   🔗 [https://davish.me](https://davish.me)  
   `React • CSS • Vercel • DNS`
 
-💡 *...and more cooking in the HSi lab 🧪*
 
 ---
 
@@ -80,5 +79,4 @@
 😄 **Fun Facts & Interests**
 
 - 💻 Competitive Coder on [LeetCode](https://leetcode.com/dayywish)  
-- 🎧 Music Junkie | 🎬 Movie Buff | 🎤 Tech Speaker  
 - 🔁 Always Building. Always Learning.
