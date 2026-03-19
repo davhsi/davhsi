@@ -19,11 +19,6 @@
   🔗 [https://fruitninja.davish.me](https://fruitninja.davish.me)  
   `Redis • WebSocket • Express • React`
 
-- 🖥️ **Personal Portfolio** – Responsive dev portfolio w/ custom domain  
-  🔗 [https://davish.me](https://davish.me)  
-  `React • CSS • Vercel • DNS`
-
-
 ---
 
 🚀 **About Me**
@@ -31,7 +26,6 @@
 - 🎓 B.E. Computer Science @ BIT  
 - 🔧 Full Stack Dev (MERN + SQL + Redis + AWS)  
 - 🕹️ Love building real-time apps, cloud-native tools, and backend engines  
-- 🌐 Portfolio: [https://davish.me](https://davish.me)  
 - 🔗 Connect: [LinkedIn](https://linkedin.com/in/edavish) • [GitHub](https://github.com/davhsi) • [LeetCode](https://leetcode.com/dayywish)
 
 ---
